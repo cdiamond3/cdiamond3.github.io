@@ -1,0 +1,11 @@
+.teamContainer {
+    background-image: url(/src/cartoon-child-room-01.jpg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 60rem;
+    background-repeat: no-repeat;
+    background-size: 150rem;
+  }
+  

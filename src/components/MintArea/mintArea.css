@@ -1,0 +1,145 @@
+.container {
+  /* padding: 20px; */
+  margin: 0px;
+  background-image: url(/src/room-baby.jpg);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 90rem;
+  background-repeat: no-repeat;
+  background-size: 150rem;
+  /* background-size:contain; */
+}
+
+.nftData {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 60px;
+  margin: 30px;
+  margin-bottom: 30px;
+  background: rgba(241, 241, 241, 0.5);
+  box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+  backdrop-filter: blur( 8px );
+  -webkit-backdrop-filter: blur( 8px );
+  border-radius: 30px;
+  border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+
+.polyInfo {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 20px;
+  margin-bottom: 250px;
+  background: rgba(241, 241, 241, 0.5);
+  box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+  backdrop-filter: blur( 8px );
+  -webkit-backdrop-filter: blur( 8px );
+  border-radius: 30px;
+  border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+
+.logo {
+  height: 25rem;
+  padding: 10px;
+  margin: 10px;
+}
+
+.mintButton {
+  display: inline-block;
+  margin: 10px;
+  padding: 24px 32px;
+  border: 0;
+  text-decoration: none;
+  border-radius: 15px;
+  background-color: rgba(255, 9, 9, 0.24);
+  border: 1px solid rgba(255,255,255,0.1);
+  backdrop-filter: blur(30px);
+  color: rgba(255,255,255,0.8);
+  font-size: 14px;
+  letter-spacing: 2px;
+  cursor: pointer;
+  text-transform: uppercase;
+  transition: .5s;
+}
+
+.mintButton:hover {
+  display: inline-block;
+  margin: 10px;
+  padding: 24px 32px;
+  border: 0;
+  text-decoration: none;
+  border-radius: 15px;
+  background-color: rgba(85, 253, 43, 0.212);
+  border: 1px solid rgba(255,255,255,0.1);
+  backdrop-filter: blur(30px);
+  color: rgba(255,255,255,0.8);
+  font-size: 24px;
+  letter-spacing: 2px;
+  cursor: pointer;
+  text-transform: uppercase;
+  transition: .5s;
+
+}
+.mintButton2 {
+  display: inline-block;
+  width: 75%;
+  margin: 10px;
+  padding: 24px 32px;
+  border: 0;
+  text-decoration: none;
+  border-radius: 15px;
+  background-color: rgba(255, 9, 9, 0.24);
+  border: 1px solid rgba(255,255,255,0.1);
+  backdrop-filter: blur(30px);
+  color: rgba(255,255,255,0.8);
+  font-size: 14px;
+  letter-spacing: 2px;
+  cursor: pointer;
+  text-transform: uppercase;
+  transition: .5s;
+}
+
+.mintButton2:hover {
+  display: inline-block;
+  margin: 10px;
+  padding: 24px 32px;
+  border: 0;
+  text-decoration: none;
+  border-radius: 15px;
+  background-color: rgba(85, 253, 43, 0.212);
+  border: 1px solid rgba(255,255,255,0.1);
+  backdrop-filter: blur(30px);
+  color: rgba(255,255,255,0.8);
+  font-size: 24px;
+  letter-spacing: 2px;
+  cursor: pointer;
+  text-transform: uppercase;
+  transition: .5s;
+
+}
+
+.mintNumber {
+  height: 4.2rem;
+  font-size: 54px;
+}
+
+.mintNumber2 {
+  height: 4.2rem;
+  font-size: 32px;
+}
+.mintNumber3 {
+  font-size: 24px;
+}
+.mintNumber4{
+  font-size: 32px;
+  color:  rgb(190, 10, 214);
+}
+
+

@@ -1,0 +1,62 @@
+.fa {
+  padding: 10px;
+  font-size: 70px;
+  width: 1000px;
+  text-align: center;
+  text-decoration: none;
+  margin: 10px;
+}
+
+.fa:hover {
+  opacity: 0.5;
+  margin: 12px;
+  transition: 0.5s;
+}
+
+.fa-twitter2 {
+  color: white;
+  background-image: url(../../580b57fcd9996e24bc43c53e.png);
+  background-size: 60px;
+  /* text-align: center; */
+  background-repeat: no-repeat;
+  padding: 30px;
+  width: 50px;
+  text-decoration: none;
+  text-align: center;
+}
+.fa-instagram2 {
+  color: white;
+  background-image: url(../../Instagram_logo_2016.svg.png);
+  background-size: 40px;
+  /* text-align: center; */
+  background-repeat: no-repeat;
+  padding: 25px;
+  width: 50px;
+  text-decoration: none;
+  text-align: center;
+}
+
+.fa-discord {
+  color: white;
+  background-image: url(../../discord-brands.svg);
+  background-size: 50px;
+  text-align: center;
+  padding: 25px;
+  background-repeat: no-repeat;
+
+  width: 50px;
+  text-decoration: none;
+  text-align: center;
+}
+
+.fa-opensea {
+  background: #6f00ff00;
+  color: white;
+  background-image: url(../../140804979-0ef11e0d-d527-43c1-93cb-0f48d1aec542.png);
+  background-size: 50px;
+  text-align: center;
+  padding: 25px;
+  width: 50px;
+  text-decoration: none;
+  text-align: center;
+}
