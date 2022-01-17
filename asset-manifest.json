@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.21fe8d43.chunk.css",
+    "main.js": "/static/js/main.cbde622c.chunk.js",
+    "main.js.map": "/static/js/main.cbde622c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.16e3e94b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.16e3e94b.js.map",
+    "static/js/2.267fcf28.chunk.js": "/static/js/2.267fcf28.chunk.js",
+    "static/js/2.267fcf28.chunk.js.map": "/static/js/2.267fcf28.chunk.js.map",
+    "static/js/3.a7361697.chunk.js": "/static/js/3.a7361697.chunk.js",
+    "static/js/3.a7361697.chunk.js.map": "/static/js/3.a7361697.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.21fe8d43.chunk.css.map": "/static/css/main.21fe8d43.chunk.css.map",
+    "static/js/2.267fcf28.chunk.js.LICENSE.txt": "/static/js/2.267fcf28.chunk.js.LICENSE.txt",
+    "static/media/Carousel.css": "/static/media/15.402700c6.png",
+    "static/media/slides.css": "/static/media/94.e5c95f92.png",
+    "static/media/socials.css": "/static/media/discord-brands.acd95b77.svg",
+    "static/media/oneofones.css": "/static/media/bg2.eb18c3ac.png",
+    "static/media/reset.css": "/static/media/font.617a0a92.woff",
+    "static/media/mintArea.css": "/static/media/room-baby.b5ebc107.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16e3e94b.js",
+    "static/js/2.267fcf28.chunk.js",
+    "static/css/main.21fe8d43.chunk.css",
+    "static/js/main.cbde622c.chunk.js"
+  ]
+}

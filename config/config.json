@@ -1,0 +1,19 @@
+{
+  "CONTRACT_ADDRESS": "0x66a7f4a667f3e6e402dbcdecf7c84cdf17662102",
+  "SCAN_LINK": "https://polygonscan.com/address/0x66a7f4a667f3e6e402dbcdecf7c84cdf17662102",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "The Immature Infants Club",
+  "SYMBOL": "IIT",
+  "MAX_SUPPLY": 5555,
+  "WEI_COST": 6000000000000000000,
+  "DISPLAY_COST": 6,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-immature-infants-club-official",
+  "SHOW_BACKGROUND": true
+}
+
