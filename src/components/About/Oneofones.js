@@ -25,18 +25,18 @@ export default function Oneofones() {
           <p className="roadMapText">Social Media and Marketing Campaign</p>
           <RoadMap bgcolor="red" progress="100" height={30} />
           <p className="roadMapText">Website Launch and Minting Begin!</p>
-          <RoadMap bgcolor="yellow" progress="50" height={30} />
+          <RoadMap bgcolor="yellow" progress="100" height={30} />
           <p className="roadMapText">
             Donation Event With Children's Miracle network
           </p>
-          <RoadMap bgcolor="#99ff66" progress="10" height={30} />
+          <RoadMap bgcolor="#99ff66" progress="0" height={30} />
           <p className="roadMapText">Release Of The Immature Pets Club!</p>
           <RoadMap bgcolor="#ff00ff" progress="0" height={30} />
           <p className="roadMapText">
             The Rest Of The Infants Will Be Released!
           </p>
           <RoadMap bgcolor="#99ccff" progress="0" height={30} />
-          <p className="roadMapText">METAVERSE</p>
+          <p className="roadMapText"> BABY BOTTLE SERUM </p>
           <RoadMap bgcolor="blue" progress="0" height={30} />
         </div>
       </Card>
