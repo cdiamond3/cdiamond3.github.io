@@ -110,12 +110,12 @@ function App() {
 
   return (
     <div className="container">
-      <Image src={"/config/images/bg3.png"} className="logo" />
       <div className="nftData">
+          <Image src={"/config/images/bg3.png"} className="logo" />
+        <Card>
         <div>
           <Socials />
         </div>
-        <Card>
           <FormText className="mintNumber">MINT COUNT:</FormText>
           <br></br>
           <FormText className="mintNumber">
@@ -137,7 +137,8 @@ function App() {
           ) : (
             <>
               <FormText className="mintNumber">
-                1 {CONFIG.SYMBOL} costs {CONFIG.DISFormTextLAY_COST}{"6 "}
+                1 {CONFIG.SYMBOL} costs {CONFIG.DISFormTextLAY_COST}
+                {"6 "}
                 {CONFIG.NETWORK.SYMBOL}
               </FormText>
               <br></br>
