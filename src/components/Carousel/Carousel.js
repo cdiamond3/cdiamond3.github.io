@@ -1,10 +1,10 @@
-import './Carousel.css'
+import { Image } from "react-bootstrap";
+import "./Carousel.css";
 
 export default function Carousel() {
   return (
     <div>
-      <h1 className='title'> 1 of 1 INFANTS </h1>
-
+      <h1 className="title"> 1 of 1 INFANTS </h1>
       <section className="carousel" aria-label="Gallery">
         <ol className="carousel__viewport">
           <li id="carousel__slide1" tabindex="0" className="carousel__slide">
@@ -47,5 +47,5 @@ export default function Carousel() {
         </ol>
       </section>
     </div>
-  )
+  );
 }
