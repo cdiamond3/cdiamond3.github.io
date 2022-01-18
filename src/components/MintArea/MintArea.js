@@ -112,6 +112,9 @@ function App() {
     <div className="container">
       <Image src={"/config/images/bg3.png"} className="logo" />
       <div className="nftData">
+        <div>
+          <Socials />
+        </div>
         <Card>
           <FormText className="mintNumber">MINT COUNT:</FormText>
           <br></br>
