@@ -111,11 +111,11 @@ function App() {
   return (
     <div className="container">
       <div className="nftData">
-          <Image src={"/config/images/bg3.png"} className="logo" />
+        <Image src={"/config/images/bg3.png"} className="logo" />
         <Card>
-        <div>
-          <Socials />
-        </div>
+          <div>
+            <Socials />
+          </div>
           <FormText className="mintNumber">MINT COUNT:</FormText>
           <br></br>
           <FormText className="mintNumber">
@@ -143,6 +143,11 @@ function App() {
               </FormText>
               <br></br>
               <FormText className="mintNumber2">Excluding gas fees.</FormText>
+              <br></br>
+              <FormText className="mintNumber5">
+                DUE TO NETWORK ISSUES PLEASE SET PRIORITY TO MEDIUM OR HIGH FOR
+                MINTING
+              </FormText>
               <br></br>
               {blockchain.account === "" ||
               blockchain.smartContract === null ? (
