@@ -6,9 +6,9 @@
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  height: 90rem;
+  /* height: 15rem; */
   background-repeat: no-repeat;
-  background-size: 150rem;
+  background-size: 550rem;
   /* background-size:contain; */
 }
 
@@ -36,7 +36,7 @@
   align-items: center;
   flex-direction: column;
   padding: 20px;
-  margin-bottom: 250px;
+  margin-bottom: 50px;
   background: rgba(241, 241, 241, 0.5);
   box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
   backdrop-filter: blur( 8px );
@@ -47,8 +47,8 @@
 
 .logo {
   height: 25rem;
-  padding: 10px;
-  margin: 10px;
+  /* padding: 10px; */
+  /* margin: 10px; */
 }
 
 .mintButton {
@@ -147,3 +147,21 @@
 }
 
 
+.charityInfo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: rgba(0, 195, 255, 0.5);
+  border-radius: 30px;
+  font-size: 24px;
+}
+.charityInfo1 {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+   background-color: rgba(0, 195, 255, 0.5);
+   border-radius: 30px;
+   font-size: 24px;
+}
