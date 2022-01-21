@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.03b70f9c.chunk.css",
-    "main.js": "/static/js/main.bd118321.chunk.js",
-    "main.js.map": "/static/js/main.bd118321.chunk.js.map",
+    "main.css": "/static/css/main.66bfa9ee.chunk.css",
+    "main.js": "/static/js/main.3d6f49d1.chunk.js",
+    "main.js.map": "/static/js/main.3d6f49d1.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.16e3e94b.js",
     "runtime-main.js.map": "/static/js/runtime-main.16e3e94b.js.map",
-    "static/js/2.473aff09.chunk.js": "/static/js/2.473aff09.chunk.js",
-    "static/js/2.473aff09.chunk.js.map": "/static/js/2.473aff09.chunk.js.map",
+    "static/js/2.48abeba5.chunk.js": "/static/js/2.48abeba5.chunk.js",
+    "static/js/2.48abeba5.chunk.js.map": "/static/js/2.48abeba5.chunk.js.map",
     "static/js/3.a7361697.chunk.js": "/static/js/3.a7361697.chunk.js",
     "static/js/3.a7361697.chunk.js.map": "/static/js/3.a7361697.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.03b70f9c.chunk.css.map": "/static/css/main.03b70f9c.chunk.css.map",
-    "static/js/2.473aff09.chunk.js.LICENSE.txt": "/static/js/2.473aff09.chunk.js.LICENSE.txt",
+    "static/css/main.66bfa9ee.chunk.css.map": "/static/css/main.66bfa9ee.chunk.css.map",
+    "static/js/2.48abeba5.chunk.js.LICENSE.txt": "/static/js/2.48abeba5.chunk.js.LICENSE.txt",
     "static/media/Carousel.css": "/static/media/15.402700c6.png",
     "static/media/slides.css": "/static/media/94.e5c95f92.png",
     "static/media/socials.css": "/static/media/discord-brands.acd95b77.svg",
@@ -21,8 +21,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.16e3e94b.js",
-    "static/js/2.473aff09.chunk.js",
-    "static/css/main.03b70f9c.chunk.css",
-    "static/js/main.bd118321.chunk.js"
+    "static/js/2.48abeba5.chunk.js",
+    "static/css/main.66bfa9ee.chunk.css",
+    "static/js/main.3d6f49d1.chunk.js"
   ]
 }
