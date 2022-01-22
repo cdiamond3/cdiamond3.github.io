@@ -11,7 +11,7 @@ export default function App() {
       <Mission/>
       <MintArea />
       <Oneofones />
-      <Slides />
+      {/* <Slides /> */}
     </div>
   );
 }
