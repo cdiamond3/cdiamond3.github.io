@@ -60,9 +60,7 @@ li {
 .slide {
   padding-top: 75%;
   filter: drop-shadow(0 0 10px #0003);
-  /* perspective: 100px; */
   border-radius: 10;
-  /* margin: 10px; */
 }
 
 .slide__viewport {

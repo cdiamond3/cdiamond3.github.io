@@ -2,13 +2,9 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  height: 150rem;
   background-size: cover;
   color: rgb(255, 243, 139);
-  background: url(../../bg2.png);
   background-repeat: no-repeat;
-  margin-bottom: 0px;
-  /* padding: 30px */
 }
 
 .progress {
@@ -44,7 +40,7 @@
   align-items: center;
   flex-direction: column;
   padding: 10px;
-  /* margin-bottom: 30px; */
+  width: 100%;
   background: rgba(241, 241, 241, 0.5);
   box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
   backdrop-filter: blur(8px);
@@ -60,12 +56,11 @@
   text-align: center;
   align-items: center;
   flex-direction: column;
-  padding: 40px;
-  margin: 30px;
   background: rgba(241, 241, 241, 0.5);
   box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
   backdrop-filter: blur(8px);
   -webkit-backdrop-filter: blur(8px);
   border-radius: 30px;
+  margin: 10px;
   border: 1px solid rgba(255, 255, 255, 0.18);
 }
