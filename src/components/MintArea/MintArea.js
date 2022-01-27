@@ -216,22 +216,27 @@ function App() {
               )}
             </>
           )}
+          <FormText className="mintNumber3">
+            Please make sure you are connected to the right network (
+            {CONFIG.NETWORK.NAME} Mainnet) and the correct address. Please note:
+            Once you make the purchase, you cannot undo this action.
+          </FormText>
+          <p className="mintNumber3">
+            We have set the gas limit to {CONFIG.GAS_LIMIT} for the contract to
+            successfully mint your NFT. We recommend that you don't lower the
+            gas limit.
+            <br></br>
+            <p className="warning">
+              DUE TO NETWORK ISSUES PLEASE SET PRIORITY TO MEDIUM OR HIGH FOR
+              MINTING
+            </p>
+          </p>
+          <br></br>
+          <FormText className="mintNumber4">
+            The Immature Infants Club©
+          </FormText>
         </Card>
       </div>
-      <Card className="polyInfo">
-        <FormText className="mintNumber3">
-          Please make sure you are connected to the right network (
-          {CONFIG.NETWORK.NAME} Mainnet) and the correct address. Please note:
-          Once you make the purchase, you cannot undo this action.
-        </FormText>
-        <p className="mintNumber3">
-          We have set the gas limit to {CONFIG.GAS_LIMIT} for the contract to
-          successfully mint your NFT. We recommend that you don't lower the gas
-          limit.
-        </p>
-        <br></br>
-        <FormText className="mintNumber4">The Immature Infants Club©</FormText>
-      </Card>
     </div>
   );
 }

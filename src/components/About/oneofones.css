@@ -3,7 +3,7 @@
   flex-direction: column;
   align-items: center;
   background-size: cover;
-  color: rgb(255, 243, 139);
+  color: rgb(255, 255, 255);
   background-repeat: no-repeat;
 }
 
@@ -16,20 +16,20 @@
 .heading {
   font-size: 74px;
   font-weight: 700;
-  filter: drop-shadow(5px 10px 8px #000000);
+  filter: drop-shadow(10px 10px 8px #000000);
 }
 
 .roadMapText {
-  font-size: 24px;
+  font-size: 28px;
   font-weight: 200;
-  filter: drop-shadow(5px 10px 8px #000000);
+  filter: drop-shadow(4px 3px 2px #000000);
 }
 
 @media screen and (min-width: 1000px) {
   .roadMapText {
     font-size: 44px;
     font-weight: 700;
-    filter: drop-shadow(10px 3px 4px #000000);
+    filter: drop-shadow(10px 6px 6px #000000);
   }
 }
 
@@ -41,7 +41,7 @@
   flex-direction: column;
   padding: 10px;
   width: 100%;
-  background: rgba(241, 241, 241, 0.5);
+  background: rgba(0, 25, 250, 0.5);
   box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
   backdrop-filter: blur(8px);
   -webkit-backdrop-filter: blur(8px);
@@ -56,7 +56,7 @@
   text-align: center;
   align-items: center;
   flex-direction: column;
-  background: rgba(241, 241, 241, 0.5);
+  background: rgba(255, 0, 0, 0.5);
   box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
   backdrop-filter: blur(8px);
   -webkit-backdrop-filter: blur(8px);

@@ -1,16 +1,28 @@
-.aboutData{
+.aboutData {
   display: flex;
   width: 100%;
   justify-content: center;
   text-align: center;
   align-items: center;
   flex-direction: column;
-  padding: 10px;
-  margin: 10px;
-  background: rgba(241, 241, 241, 0.5);
+  padding: 40px;
+  background: rgba(0, 255, 34, 0.5);
   box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
   backdrop-filter: blur(8px);
   -webkit-backdrop-filter: blur(8px);
   border-radius: 30px;
   border: 1px solid rgba(255, 255, 255, 0.18);
+}
+
+.missionTitle {
+  font-size: 54px;
+  font-weight: 200;
+  color: white;
+  filter: drop-shadow(4px 3px 2px #000000);
+}
+
+.missionText {
+  font-size: 24px;
+  color: white;
+  filter: drop-shadow(4px 3px 2px #000000);
 }

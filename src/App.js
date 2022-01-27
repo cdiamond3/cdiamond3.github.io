@@ -8,8 +8,8 @@ import Mission from "./components/Mission/Mission";
 export default function App() {
   return (
     <div className="appContainer">
-      <Mission/>
       <MintArea />
+      <Mission/>
       <Oneofones />
       {/* <Slides /> */}
     </div>
